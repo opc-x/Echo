@@ -1,4 +1,4 @@
-# CallanApp
+# Echo
 
 Callan 英语学习应用：Next.js App Router · next-intl (zh) · Neon Postgres · Drizzle ORM · Tailwind · shadcn/ui。
 

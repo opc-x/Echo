@@ -21,7 +21,7 @@ export async function generateMetadata({
   params: Promise<{ lesson: string }>;
 }): Promise<Metadata> {
   const { lesson } = await params;
-  return { title: `Lesson ${lesson} · CallanApp` };
+  return { title: `Lesson ${lesson} · Echo` };
 }
 
 export default async function LessonPage({

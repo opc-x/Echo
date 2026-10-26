@@ -14,7 +14,7 @@ const defaultUrl = process.env.VERCEL_URL
 
 export const metadata: Metadata = {
   metadataBase: new URL(defaultUrl),
-  title: "CallanApp",
+  title: "Echo",
   description: "Callan Method 词组与例句，按课时刷",
   appleWebApp: { capable: true, statusBarStyle: "default", title: "Callan" },
 };

@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "CallanApp",
+    name: "Echo",
     short_name: "Callan",
     description: "Callan Method 词组与例句，按课时刷",
     start_url: "/zh",

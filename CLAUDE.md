@@ -1,4 +1,4 @@
-# CLAUDE.md — CallanApp
+# CLAUDE.md — Echo（原名 CallanApp）
 
 Callan Method 刷课应用：按课时过词组与例句。
 

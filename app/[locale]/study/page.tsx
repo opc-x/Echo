@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { stageOutline } from "@/lib/callan";
 import { StudyIndex } from "@/components/study-index";
 
-export const metadata: Metadata = { title: "课程 · CallanApp" };
+export const metadata: Metadata = { title: "课程 · Echo" };
 
 export default async function StudyPage({
   params,

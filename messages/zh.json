@@ -1,10 +1,10 @@
 {
   "common": {
-    "appName": "CallanApp",
+    "appName": "Echo",
     "tagline": "Callan Method · 按课时刷"
   },
   "home": {
-    "headline": "CallanApp",
+    "headline": "Echo",
     "subtext": "12 个 Stage、191 节课的词组与例句，一节一节刷过去。",
     "study": "开始刷课",
     "health": "健康检查",
